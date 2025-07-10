@@ -38,7 +38,7 @@ vim.keymap.set("n", "<leader>fs", vim.cmd.write, { desc = "Save file" })
 vim.keymap.set("n", "<leader>fq", ":bd<CR>", { desc = "Delete buffer" })
 
 -- Set File Type
-vim.keymap.set("n", "<leader>t", function()
+vim.keymap.set("n", "<leader>fj", function()
   vim.ui.input({ prompt = "Set filetype: " }, function(input)
     if input then
       vim.cmd("set filetype=" .. input)
