@@ -12,6 +12,7 @@ return {
       "lua-language-server",
       -- "php-cs-fixer",
       -- "phpcs",
+      -- "phpcbf",
       "pint",
       "prettier",
       "prisma-language-server",
