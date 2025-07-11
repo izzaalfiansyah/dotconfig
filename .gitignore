@@ -10,3 +10,5 @@
 !skhd/**/*
 !fish/
 !fish/**/*
+!zellij/
+!zellij/**/*
