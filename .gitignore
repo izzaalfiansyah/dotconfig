@@ -1,6 +1,10 @@
 *
 !.gitignore
 !nvim/
-!kitty/
 !nvim/**/*
+!kitty/
 !kitty/**/*
+!yabai/
+!yabai/**/*
+!skhd/
+!skhd/**/*
